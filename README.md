@@ -1,5 +1,5 @@
 # stock-analysis-tool
-A user-friendly stock analysis toolkit built in Python. This app provides a clean graphical interface for fetching stock data, computing technical indicators, analyzing news sentiment, and visualizing market trends — all without needing to touch a line of code.
+A user-friendly stock analysis toolkit built in Python. This app provides a clean graphical interface for fetching stock data, computing technical indicators, analyzing news sentiment, and visualizing market trends.
 
 ## Features
 - Fetch stock data from Yahoo Finance using `yfinance`.
