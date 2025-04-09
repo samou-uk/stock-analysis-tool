@@ -35,8 +35,13 @@ Ensure you have all the dependencies installed. You can do this by running `pyth
 2. Navigate to the project directory.
 3. Run `python dependencies.py` to launch the GUI.
 4. Run `python gui.py` to launch the GUI.
-5. Enter the stock ticker symbol, start date, and end date.
-6. Click the buttons to fetch data, calculate and visualize technical indicators, perform sentiment analysis, and view the price predictions along with a recommendation for buying, holding, or selling the stock.
+5. Enter the stock ticker symbol & the period
+6. Click "Process" to initialise a stock. You can use the other buttons to change the graph views.
 
-   ![image](https://github.com/user-attachments/assets/24075291-5fb1-42e6-bef7-9b78a08430cb)
+![image](https://github.com/user-attachments/assets/cbf33fe2-bd54-414c-8066-88a19744505b)
+
+**v0.1 Update:**
+- Added a Settings Page allowing users to customize the Process .
+- You can now disable headline sentiment analysis, toggle auto-refresh of the price & graph, and adjust the stock data fetch interval.
+- Preferences are saved to a .inf configuration file.
 
