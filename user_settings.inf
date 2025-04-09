@@ -1,6 +1,6 @@
 [Options]
 show_headlines = True
 live_update = False
-auto_refresh = False
+auto_refresh = True
 interval = 1h
 

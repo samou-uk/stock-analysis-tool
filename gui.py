@@ -175,13 +175,13 @@ class StockAnalysisApp(tk.Tk):
 
         ttk.Checkbutton(
             settings_window,
-            text="Enable Live Price Update",
+            text="Enable Live Graph Update",
             variable=self.live_update
         ).pack(anchor="w", padx=20)
 
         ttk.Checkbutton(
             settings_window,
-            text="Auto Refresh Chart",
+            text="Price Display",
             variable=self.auto_refresh
         ).pack(anchor="w", padx=20)
 
@@ -214,7 +214,7 @@ class StockAnalysisApp(tk.Tk):
             config.read("user_settings.inf")
             self.display_headlines.set(config.getboolean("Options", "show_headlines", fallback=True))
             self.live_update.set(config.getboolean("Options", "live_update", fallback=False))
-            self.auto_refresh.set(config.getboolean("Options", "auto_refresh", fallback=False))
+            self.auto_refresh.set(config.getboolean("Options", "auto_refresh", fallback=True))
             self.interval_var.set(config.get("Options", "interval", fallback='1h'))
         else:
             self.display_headlines.set(True)
