@@ -6,9 +6,10 @@
   - Bollinger Bands
   - Relative Strength Index (RSI)
   - Moving Average Convergence Divergence (MACD) + Signal Line
-- Perform sentiment analysis on news headlines related to the stock using `TextBlob`.
+- Perform sentiment analysis on news headlines related to the stock using `TextBlob`, appends to a file acting like a cache.
 - Includes linear and polynomial regression-based price projections with customizable degree selection using `Sklearn`
 - Display stock data, technical indicators, sentiment analysis results, and price predictions through a user-friendly GUI using `tkinter`.
+- Live stock data updates are available only when the respective market is open (limited to major markets for now).
 - Evaluate the buying, holding, or selling recommendation based on the analysis and predictions.
 
 ## Dependencies 
@@ -24,11 +25,11 @@
 - mplfinance
 - scikit-learn
 - tkinter
+- pytz
+- pandas_market_calendars
 
-
- 
 **Usage:** 
-Ensure you have all the dependencies installed. 
+Ensure you have all the dependencies installed. You can do this by running `python dependencies.py`.
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
@@ -36,3 +37,6 @@ Ensure you have all the dependencies installed.
 4. Run `python gui.py` to launch the GUI.
 5. Enter the stock ticker symbol, start date, and end date.
 6. Click the buttons to fetch data, calculate and visualize technical indicators, perform sentiment analysis, and view the price predictions along with a recommendation for buying, holding, or selling the stock.
+
+   ![image](https://github.com/user-attachments/assets/24075291-5fb1-42e6-bef7-9b78a08430cb)
+
