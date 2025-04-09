@@ -1,79 +1,97 @@
-1. Canadian firms brace for trade headwinds, delay investment plans - BoC By Investing.com - Sentiment: 0.00
-2. BoC reports show trade uncertainty takes toll on business and consumer confidence - Sentiment: 0.00
-3. Beijing launches $72bn capital injections at biggest banks - Sentiment: 0.00
-4. Bank of China (SEHK:3988) Reports Q3 Earnings with Focus on Digital Growth and Southeast Asia Expansion - Sentiment: 0.00
-5. Bank Of China (3988 HK/601988 CH) Earnings on 26/3: Anticipated Price Movements and Options Insights - Sentiment: 0.00
-6. Bank of China Declares Interim Dividend for 2024 - Sentiment: 0.00
-7. BANK OF CHINA (3988.HK) Other non-interest income increased strongly, and the scale of assets and liabilities grew steadily - Sentiment: 0.16
-8. Bank of China (SEHK:3988) Reports Q3 Earnings with Focus on Digital Growth and Southeast Asia Expansion - Sentiment: 0.00
-9. Discover Three High-Yielding Dividend Stocks In Hong Kong With Yields Up To 6.7% - Sentiment: 0.00
-10. 3 SEHK Dividend Stocks Yielding Over 6% For Your Portfolio - Sentiment: 0.00
-11. Hong Kong Bank Stock Could Return Over 20% - Sentiment: 0.00
-12. Bank of China, Huaneng, Wynn Macau: Hong Kong Equity Preview - Sentiment: 0.00
-13. BOC, China Shineway, Sino-Ocean Land: Hong Kong Equity Preview - Sentiment: 0.00
-14. BOC, China Shenhua, Cnooc, Shun Tak: Hong Kong Equity Preview - Sentiment: 0.00
-15. Bank of China, Formosa, Baosteel: Asia Ex-Japan Equity Preview - Sentiment: 0.00
-16. Bank of China, Fubon, LG, Samsung: Asia Ex-Japan Equity Preview - Sentiment: 0.00
-17. 策略師：特朗普關稅計畫或是爭取談判籌碼的策略 - Sentiment: 0.00
-18. 中國AI｜中國銀行支持AI發展 未來5年提供金融工具 規模不低於1萬億元 - Sentiment: 0.00
-19. 中行去年純利按年升2.6%至2,378.4億人民幣勝預期 派末期息12.16分人民幣 - Sentiment: 0.00
-20. 高盛報告：美股暴跌將影響明年美國GDP增長 - Sentiment: 0.00
-21. 四內銀溢價配股財政部 籌5200億 - Sentiment: 0.00
-22. 繼和習近平通話後 CNN：就職後數日內 川普將跟普丁通話談結束俄烏戰爭 - Sentiment: 0.00
-23. 〈台幣〉川普喊喊降息 封關日收32.682元 升值8.8分 - Sentiment: 0.00
-24. 立足股壇｜港股整固 值博率不高宜小注｜JK爸爸（陳立展） - Sentiment: 0.00
-25. 中銀擬斥21億全購同系私銀 - Sentiment: 0.00
-26. 人幣中間價下調57點 報7.1754兌一美元 - Sentiment: 0.00
-27. 日產全球裁員計劃據報包括日本員工 - Sentiment: 0.00
-28. 港股絕地反攻 兩路進軍佈陣 - Sentiment: 0.00
-29. 港股二萬一關爭持 國企內房內銀 隨國策起舞 - Sentiment: 0.00
-30. 被美國制裁後沒有銀行賬戶 香港特首林鄭月娥稱只能用現金 - Sentiment: 0.00
-31. 四大內銀派中期息 4月急升後仲買得過？ - Sentiment: 0.00
-32. 【專家分析】潤啤靠新品牌搶市佔 - Sentiment: 0.00
-33. 港股反彈虛火 買內銀坐博倍翻仍有得諗？ - Sentiment: 0.00
-34. 四大內銀傳奉命撐新世界 - Sentiment: 0.00
-35. 《大行》高盛：中國擬發5,000億人幣特別國債 內銀首選中銀 - Sentiment: 0.00
-36. 中行股價打回原形 不容錯過的投資啟示! - Sentiment: 0.00
-37. 〈富邦金法說〉富壽2024股海大賺1546億元 投資聚焦AI及趨勢類股 - Sentiment: 0.00
-38. 爆一爆｜褲王楊釗 揸鑊鏟狂掃建行、工行（Louise） - Sentiment: 0.00
-39. 《藍籌業績》中國銀行(03988.HK)全年純利2,319.04億人民幣增2.4% 每10股派2.364元人民幣 - Sentiment: 0.00
-40. 亞通在手訂單110億元 明年太陽光電挹注營運逐季走升 - Sentiment: 0.00
-41. 無畏內捲！電動車銷量創史高 吉利汽車上調全年銷量目標至200萬輛 - Sentiment: 0.00
-42. 財經｜廣聯科技控股(02531)被證監會點名股權高度集中 股價跌逾2成 - Sentiment: 0.00
-43. 拆局內銀千億投資「大基金」潛在影響 - Sentiment: 0.00
-44. 渣打香港維持最優惠利率於5.5釐不變 - Sentiment: 0.00
-45. 台股年線有守個股超跌的先彈？ - Sentiment: 0.00
-46. Fed緊急貸款額續降 銀行流動性浮現回穩跡象 - Sentiment: 0.00
-47. 澳門日報電子版 - Sentiment: 0.00
-48. 中工建農及郵儲行六大行下調存款利率 七天期通知存款利率下降25個基點 - Sentiment: 0.00
-49. 亞洲私募信貸金額去年創八年低點 中國經濟力道不足構成拖累 - Sentiment: 0.00
-50. 〈國泰金經濟調查〉日元今年暴貶超過15% 六成民眾未搭上搶日幣列車 - Sentiment: 0.00
-51. 租金回報率高 兩個月共88宗投資者入市 - Sentiment: 0.00
-52. 【國家隊】匯金過去6次出手增持內銀股，歷史表現如何？ - Sentiment: 0.00
-53. 黃遠輝：央行再放水無助救經濟 - Sentiment: 0.00
-54. 英國石油：中國經濟低迷影響全球石油需求 煉油利潤慘淡 - Sentiment: 0.00
-55. 上水蔚翠花園三房580萬易手 95年買入升值275萬(有相)｜二手樓成交 - Sentiment: 0.00
-56. 五大內銀邊隻最值得長揸？ - Sentiment: 0.00
-57. 澳門日報電子版 - Sentiment: 0.00
-58. 競貶潮將至？美元走強引爆亞幣屠殺潮 中國放手人民幣貶值也是幫兇 - Sentiment: 0.00
-59. 新盤術語「合約價」及「光豬價」的分別 - Sentiment: 0.00
-60. 【樓市贏家】夾硬上車痛苦一世（上）（徐峰） - Sentiment: 0.00
-61. 與國際接軌、回歸保障本質 南山人壽MDRT人數年成長38% - Sentiment: 0.00
-62. 馬斯克與朱克伯格積怨浮面 呼籲停用WhatsApp﹗ - Sentiment: 0.00
-63. 中國銀行3988 vs 中銀香港2388點揀？ 譚智樂：更睇好恒生銀行11 - Sentiment: 0.00
-64. 【扮工收風】IT以保安為由 強制Scan同事One Drive - Sentiment: 0.00
-65. 外國研究：象徵式報復老細 有效重拾平和心情 - Sentiment: 0.00
-66. 順豐同城一手200股中籤率50% 抽3手穩獲一手 - Sentiment: 0.00
-67. 【第一滴血】裁員都無用，官方嚴打補習後第一滴血：華爾街英語傳宣布破產 - Sentiment: 0.00
-68. 【呂志華手記】誰享受到香港經濟增長帶來的繁榮？（呂志華） - Sentiment: 0.00
-69. 中證監開砲後 中資股有賺沒賺都豪邁派息 股民驚呆了！ - Sentiment: 0.00
-70. 博士做遊戲外掛賺12萬獲刑，被抓才知道幫團隊賺了300萬 - Sentiment: 0.00
-71. 中國銀行股 - Smart自學網|財經好讀 - 出版品 - 密技 - 我的100張存股 - Sentiment: 0.00
-72. 低於估值成交湧現 買樓有價講 上車族5招殺價 咪被人撳住搶 | 香港樓市2018 - Sentiment: 0.00
-73. 投資有道 李嘉誠基金會歷年4項「大刁」 - Sentiment: 0.00
-74. 理財個案｜80後買股票都係蝕！想買中銀收息、再用100萬提早還物業貸款！慳息再開源｜龔成教室 - Sentiment: 0.00
-75. 55隻恒指成份股比併 中國銀行7.5厘股息 登藍籌高息股王 賺息又賺價新策略 - Sentiment: 0.00
-76. 港股走勢｜恒生指數重上兩萬點！投資者要有這個準備｜談股論市 - Sentiment: 0.00
-77. 理財個案｜3x歲現時有投資美股港股債券及外幣！加2%黃金點睇｜龔成教室 - Sentiment: 0.00
-78. 收息股2023｜6隻內銀股除淨時間表：建設銀行、招行、農行等...4隻股息率達8厘！專家推薦呢一隻 - Sentiment: 0.00
-79. 港股走勢｜基金經理陸續收爐！恒生指數短期料19800點附近上落｜談股論市 - Sentiment: 0.00
+1. Apple's 4-day slide puts Microsoft back on top as most valuable company - Sentiment: 0.33
+2. Apple Exported $17 Billion in iPhones From India Last Year, Minister Says - Sentiment: 0.00
+3. Apple Stock Is Dropping. Trump Wants iPhones to Be Built in U.S. - Sentiment: 0.20
+4. Apple Stock Falls After Getting Two Negative Reports - Sentiment: -0.30
+5. When Apple’s stock is this cheap, big gains often follow, according to BofA - Sentiment: 0.20
+6. Apple Loses Title of World's Most Valuable Company as China Tariffs Loom - Sentiment: 0.10
+7. American company sacks 700, of these 200 in 'donation scam' related to Telugu organisations; similar to f - Sentiment: 0.00
+8. Comcast Hires Apple, Expedia and DirecTV Alum Jon Gieselman to Lead U.S. Residential Business - Sentiment: 0.00
+9. Microsoft again world’s most valuable company amid market turmoil - Sentiment: 0.50
+10. Apple’s historic selloff marks worst three-day stretch for the stock since 2001 - Sentiment: -0.50
+11. Marjorie Taylor Greene discloses purchases of Apple, Amazon, others (AAPL:NASDAQ) - Sentiment: 0.00
+12. Analyst reboots Apple stock price target after tariff meltdown - Sentiment: 0.00
+13. Apple stock hits 11-mth low on tariff fears, falls behind Microsoft in market cap - Sentiment: -0.20
+14. This Is Apple’s (AAPL) Plan to Avoid Trump’s Tariffs on China - Sentiment: 0.00
+15. How Apple Stock Can Beat Trump's Tariffs - Sentiment: 0.00
+16. Apple Takes the Biggest Hit of the "Magnificent Seven" in Response to Trump Tariffs - Sentiment: 1.00
+17. Apple-Linked Tech Stocks Are Hard-Hit in Asia - Sentiment: 0.00
+18. What to Expect From Apple's Earnings Call on May 1 as Tariffs Loom - Sentiment: 0.00
+19. Apple to invest $175m in expanding North Carolina data center - Sentiment: -0.10
+20. What company is now the world’s most valuable company after Apple loses coveted spot? - Sentiment: 0.10
+21. Apple's US$500 billion investment pledge fails to secure tariff exemptions - Sentiment: -0.05
+22. Live: Magnificent 7 Stocks Apple (Nasdaq: AAPL) and NVIDIA (Nasdaq: NVDA) Slide on Tuesday - Sentiment: 0.57
+23. Apple’s Stocks app has a powerful hidden feature for easier tracking - Sentiment: 0.07
+24. AMZN, AAPL and GOOGL Forecast – Mag 7 Stocks Continue to Fall - Sentiment: 0.00
+25. Epic Games CEO calls Apple and Google ‘gangster-style’ businesses in need of competition - Sentiment: 0.10
+26. US labour watchdog halts Apple cases after Donald Trump picks group’s lawyer for top job - Sentiment: 0.50
+27. Apple will spend more than $500 billion in the U.S. over the next four years - Sentiment: 0.25
+28. Visa Wants to Take Over $20 Billion Apple Card Business - Sentiment: 0.20
+29. Apple is getting screwed by Trump's tariffs - Sentiment: 0.00
+30. Apple leads decline in tech stocks as market reacts to Trump's tariffs - Sentiment: 0.00
+31. Apple CEO Tim Cook makes a cool $24 million in serendipitous stock sale - Sentiment: 0.35
+32. Charted: How Apple Makes its $391B in Revenue - Sentiment: 0.00
+33. Apple Plunges 9%, Leading a Tech Sell-Off - Sentiment: 0.00
+34. Apple has its biggest stock drop in five years because of Trump’s tariffs - Sentiment: 0.00
+35. Apple loses $1bn a year on TV: Why don't its shows have mass appeal? - Sentiment: -0.30
+36. Tariffs or Not, I'm Avoiding These 2 Tumbling Stocks - Sentiment: 0.00
+37. Tech analyst responds to Trump wanting Apple to make iPhones in U.S.: 'I don't think that's a thing' - Sentiment: 0.00
+38. Stocks making the biggest moves midday: Apple, UnitedHealth, Humana, Broadcom, Wells Fargo and more - Sentiment: 0.50
+39. Apple drops 5% as tech, semiconductor stocks fall after market rally fades - Sentiment: 0.00
+40. Magnificent 7 rebound falters as Apple, Tesla end sharply lower amid broad tariff sell-off - Sentiment: 0.31
+41. Apple's 3-day loss in market cap swells to almost $640 billion - Sentiment: 0.00
+42. Apple stock drops after Trump admin says it will increase Chinese tariff to 104% - Sentiment: 0.00
+43. Apple Loses Title of World's Most Valuable Company as China Tariffs Loom - Sentiment: 0.10
+44. These Stocks Moved the Most Today: Apple, Nvidia, Broadcom, Humana, CVS, Tesla, Super Micro, Marvell, and More - Sentiment: 0.44
+45. Hard-hit Apple bounces back with the market, and an analyst is divided on our drug stocks - Sentiment: 0.00
+46. Howard Lutnick Says Army Of Millions Will Build iPhones In The US, But Could Trump's Tariffs Make The Premium Apple Flagship Cost $2,300? - Sentiment: 0.00
+47. Apple’s historic sell-off has bulls balking from tariff risks - Sentiment: 0.00
+48. Wedbush Cuts Apple, Tesla Targets as Tariff Pressure Mounts - Sentiment: 0.00
+49. How Stock Options Traders See Apple’s (AAPL) Death Cross - Sentiment: 0.00
+50. Apple's Post-Earnings Slide May Offer Strong Entry Point, Analyst Notes - Sentiment: 0.43
+51. Apple, Tesla, GM, Nvidia, Super Micro, MicroStrategy, U.S. Steel, Alibaba, and More Movers - Sentiment: 0.42
+52. Apple’s collapse proves cosying up to Trump is no guarantee of safety - Sentiment: 0.30
+53. Apple (AAPL) Leans Into U.S. AI Investment with $500B Pledge Amid Tariff Challenges - Sentiment: 0.00
+54. Tesla & Apple price targets cut, Five Below rises: Market Minute - Sentiment: 0.00
+55. Why BofA Says Apple’s Recent Tariff-Fueled Slump Could Be an Opportunity To Buy - Sentiment: 0.00
+56. Is Apple Inc. (AAPL) the Best Fundamental Stock to Buy According to Billionaires? - Sentiment: 1.00
+57. Apple Plans To Ship More iPhones From India Amid Steep China Tariffs, Report Says - Sentiment: 0.50
+58. iPhone Panic Buying Erupts as Apple Faces $500B Market Drop and Tariff Chaos - Sentiment: 0.00
+59. Tariff storm ravages Magnificent Seven as Apple nears one-year low - Sentiment: 0.50
+60. Apple temporarily slashes TV+ subscription prices (AAPL:NASDAQ) - Sentiment: 0.00
+61. Is Apple Inc. (AAPL) the Best Beginner Stock? - Sentiment: 1.00
+62. Apple’s stock is the latest to see a ‘death cross,’ and it won’t be the last - Sentiment: 0.17
+63. Apple Stock Falls Again. How the Rest of the Mag 7 Are Trading. - Sentiment: 0.00
+64. Futures Dive On Trump Tariff Fallout - Sentiment: 0.00
+65. Europe considers new tariffs that could punish tech companies like Google, Meta, and Apple - Sentiment: 0.14
+66. Apple: A Contrarian Buy Opportunity (Rating Upgrade) (NASDAQ:AAPL) - Sentiment: 0.00
+67. Apple, Nvidia Among Tech Giants Hit Hard in Stock Market Selloff - Sentiment: -0.29
+68. Apple Shares Tumble as White House Threatens Additional Tariff on China - Sentiment: 0.00
+69. Jim Cramer on Apple Inc. (AAPL): “It’s Bad. I’m Not Gonna Tell You It’s Good” – China Risk Looms Large - Sentiment: 0.07
+70. Trump’s Tariffs Hit Apple and Amazon Stocks — But Analysts at Big Banks Stay Firm - Sentiment: -0.10
+71. Apple: The Generational Buying Opportunity Is Here (Rating Upgrade) - Sentiment: 0.00
+72. Apple Shares Trim 3%+ Drop As White House Confirms 104% Tariffs Against China Go Into Effect Tonight At Midnight - Sentiment: 0.00
+73. Why This Five-Star Analyst Expects Solid Returns from Apple Stock (AAPL) - Sentiment: 0.00
+74. Tesla shares tumble after bullish analyst Dan Ives slashes price target 43% - Sentiment: 0.00
+75. Apple’s $500B Power Move (NASDAQ:AAPL) - Sentiment: 0.00
+76. Pullback in Apple shares creates buying opportunity, says BofA - Sentiment: 0.00
+77. AAPL, NVDA – The two biggest companies are the 2 biggest losers in the Dow - Sentiment: -0.20
+78. Apple: 2 Obvious Reasons To Buy, 1 To Sell (NASDAQ:AAPL) - Sentiment: 0.00
+79. Comcast Names Chief Growth Officer For U.S. Residential Businesses - Sentiment: 0.00
+80. Trump's 54% China Tariff: A Game-Changer For Apple (NASDAQ:AAPL) - Sentiment: 0.00
+81. Apple seeing 'panic buying' of iPhones amid tariff worries: report (AAPL:NASDAQ) - Sentiment: 0.00
+82. ‘Once in a Generation Opportunity,’ Says Investor About Apple Stock - Sentiment: 0.00
+83. Apple Sell-Off: A Massive Overreaction To Tariff News (NASDAQ:AAPL) - Sentiment: 0.00
+84. Analysts Keeping the Faith on Apple Stock (AAPL) Despite Tariff Turmoil - Sentiment: 0.00
+85. ‘The Perfect Storm’: Daniel Ives Slashes Price Targets for Tesla and Apple Shares - Sentiment: 1.00
+86. How Stock Options Traders See Apple’s (AAPL) Death Cross - Sentiment: 0.00
+87. Devastating tariffs force Wedbush to slash Apple stock target by $75 to $250 - Sentiment: -1.00
+88. Trump Tariffs Chomp AAPL Stock to Its Core - Sentiment: 0.00
+89. Why Shares of Apple Are Getting Hammered Today - Sentiment: 0.00
+90. How Tim Cook's business empire could beat Donald Trump's tariffs: Apple's worldwide supply chain could soften - Sentiment: 0.00
+91. Apple stock rocked for fourth day, despite brief signs of recovery - Sentiment: 0.00
+92. Watch Apple's Shares Plunged After Tariff Announcement - Sentiment: 0.00
+93. Analyst Forecasts Tariffs Impact On Apple's Profit And Highlights 2 Software Stocks That Are Safeguards - Sentiment: 0.00
+94. Apple shares clawing back, after $638 billion in value is destroyed - Sentiment: 0.00
+95. Apple's Stock Had a Wild Morning - Sentiment: 0.10
+96. ‘Nowhere to hide.’ How Apple and others in Silicon Valley are bracing for Trump tariffs - Sentiment: 0.00
+97. Apple, Tesla, JPMorgan and Eli Lilly fall premarket - Sentiment: 0.00
