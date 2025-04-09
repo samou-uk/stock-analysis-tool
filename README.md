@@ -14,7 +14,7 @@ A user-friendly stock analysis toolkit built in Python. This app provides a clea
 - Evaluate the buying, holding, or selling recommendation based on the analysis and predictions.
 
 ## Dependencies 
-- Python 3.x (not Python 3.12 (yet))
+- Python 3.x 
 - pandas
 - yfinance
 - matplotlib
