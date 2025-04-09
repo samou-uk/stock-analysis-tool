@@ -38,7 +38,7 @@ Ensure you have all the dependencies installed. You can do this by running `pyth
 5. Enter the stock ticker symbol & the period
 6. Click "Process" to initialise a stock. You can use the other buttons to change the graph views.
 
-![image](https://github.com/user-attachments/assets/cbf33fe2-bd54-414c-8066-88a19744505b)
+![image](https://github.com/user-attachments/assets/1f5a5654-68ae-43d0-a91d-ebc10aa7a4d1)
 
 **v0.1 Update:**
 - Added a Settings Page allowing users to customize the Process .
