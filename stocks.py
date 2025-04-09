@@ -10,6 +10,58 @@ import matplotlib.pyplot as plt
 from mplfinance.original_flavor import candlestick_ohlc
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
+import pandas_market_calendars as mcal
+from datetime import datetime
+import pytz
+
+def is_market_open(ticker):
+    try:
+        info = yf.Ticker(ticker).info
+        exchange = info.get("exchange", "").upper()
+
+        exchange_lookup = {
+            "NASDAQ": "NASDAQ",
+            "NMS": "NASDAQ",
+            "NYSE": "NYSE",
+            "NYQ": "NYSE",
+            "LSE": "LSE",
+            "TSX": "TSX",
+            "TOR": "TSX",
+        }
+
+        asian_exchanges = {
+            "JPX": ("Asia/Tokyo", 9, 15),
+            "TSE": ("Asia/Tokyo", 9, 15),
+            "HKG": ("Asia/Hong_Kong", 9, 16),
+            "SHG": ("Asia/Shanghai", 9, 15),
+            "SHE": ("Asia/Shanghai", 9, 15),
+        }
+
+        if exchange in asian_exchanges:
+            tz_str, open_hr, close_hr = asian_exchanges[exchange]
+            tz = pytz.timezone(tz_str)
+            now = datetime.now(tz)
+            return now.hour >= open_hr and now.hour < close_hr
+
+        cal_code = exchange_lookup.get(exchange)
+        if not cal_code:
+            return False
+
+        cal = mcal.get_calendar(cal_code)
+        today = datetime.now().strftime('%Y-%m-%d')
+        sched = cal.schedule(start_date=today, end_date=today)
+
+        if sched.empty:
+            return False
+
+        aware_now = pytz.utc.localize(datetime.utcnow())
+        open_time = sched.iloc[0]['market_open']
+        close_time = sched.iloc[0]['market_close']
+
+        return open_time <= aware_now <= close_time
+    except Exception as e:
+        print(f"ERROR {e}")
+        return False
 
 
 def getNewsData(stock):
