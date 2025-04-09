@@ -8,7 +8,9 @@ required_packages = [
     "textblob",
     "numpy",
     "mplfinance",
-    "scikit-learn"
+    "scikit-learn",
+    "pandas-market-calendars",
+    "pytz"
 ]
 
 if __name__ == "__main__":
