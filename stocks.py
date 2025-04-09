@@ -13,7 +13,7 @@ from sklearn.preprocessing import PolynomialFeatures
 import pandas_market_calendars as mcal
 from datetime import datetime
 import pytz
-
+import random
 def is_market_open(ticker):
     try:
         info = yf.Ticker(ticker).info
@@ -65,20 +65,28 @@ def is_market_open(ticker):
 
 
 def getNewsData(stock):
+    url = f"https://finviz.com/quote.ashx?t={stock}"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/536.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.86 Safari/537.36"
     }
-    response = requests.get("https://www.google.com/search?q=" + stock + "&gl=us&tbm=nws&num=100", headers=headers)
-    soup = BeautifulSoup(response.content, "html.parser")
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    table = soup.find("table", class_="fullview-news-outer")
     news_results = []
-    for el in soup.select("div.SoaBEf"):
-        news_results.append({
-            "link": el.find("a")["href"],
-            "title": el.select_one("div.MBeuO").get_text(),
-            "snippet": el.select_one(".GI74Re").get_text(),
-            "date": el.select_one(".LfVVr").get_text(),
-            "source": el.select_one(".NUnG9d span").get_text()
-        })
+    if table:
+        rows = table.find_all("tr")
+        for row in rows:
+            timestamp = row.td.text.strip()
+            link_tag = row.find_all("td")[1].find("a")
+            title = link_tag.text.strip()
+            link = link_tag["href"]
+            news_results.append({
+                "link": link,
+                "title": title,
+                "snippet": "",
+                "date": timestamp,
+                "source": "Finviz"
+            })
     return news_results
 
 def get_headlines_sentiment(stock):
@@ -104,7 +112,20 @@ def show_headlines(stock):
     return headlines_with_sentiment
 
 def fetch_stock_data(ticker, start_date, end_date):
-    data = yf.download(ticker, interval='1h', start=start_date, end=end_date)
+    try:
+        with open("user_settings.inf", "r") as f:
+            lines = f.readlines()
+            interval_line = [line for line in lines if line.startswith("interval =")]
+            interval = interval_line[0].split("=")[1].strip() if interval_line else "1h"
+    except:
+        interval = "15m"
+
+    data = yf.download(ticker, interval=interval, start=start_date, end=end_date)
+    if data.empty:
+        return data
+    data = data[['Open', 'High', 'Low', 'Close', 'Volume']].copy()
+    data = data.astype(float)
+    print(data)
     return data
 
 def moving_averages(data):
@@ -123,6 +144,7 @@ def rsi(data):
         close_series = close_series.squeeze()
     rsi_indicator = ta.momentum.RSIIndicator(close_series)
     data['RSI'] = rsi_indicator.rsi()
+    return data['RSI']
 
 def macd(data):
     close_series = data['Close']
@@ -131,6 +153,7 @@ def macd(data):
     macd_calc = ta.trend.MACD(close_series)
     data['MACD'] = pd.Series(np.ravel(macd_calc.macd()), index=data.index)
     data['MACD Signal'] = pd.Series(np.ravel(macd_calc.macd_signal()), index=data.index)
+    return data['MACD']
 
 def detect_trend(data):
     if len(data) < 50:
@@ -179,16 +202,14 @@ def showgraph(data):
     plt.show()
 
 def showRSI(data, ticker):
-    ohlc_data = data[['Open', 'High', 'Low', 'Close']].astype(float)
-    ohlc_data.reset_index(inplace=True)
-    ohlc_data['Datetime'] = mdates.date2num(ohlc_data['Datetime'].dt.to_pydatetime())
     fig, axs = plt.subplots()
-    data['RSI'].plot(ax=axs)
+    axs.plot(data.index, data['RSI'], color='purple', label='RSI')
+    axs.axhline(70, color='red', linestyle='--', label='Overbought (70)')
+    axs.axhline(30, color='green', linestyle='--', label='Oversold (30)')
     axs.set_title(f'{ticker} RSI')
-    axs.axhline(0, color='black', lw=2)
-    axs.axhline(20, color='red', lw=2)
-    axs.axhline(80, color='green', lw=2)
+    axs.set_ylim(0, 100)
     axs.grid()
+    axs.legend()
     plt.tight_layout()
     plt.show()
 
@@ -220,14 +241,17 @@ def polynomial_regression_trend(data, degree=2):
 
     data['Poly Trend'] = model.predict(X_poly)
     return data[['Datetime', 'Close', 'Poly Trend']]
+
 def showMACD(data, ticker):
-    ohlc_data = data[['Open', 'High', 'Low', 'Close']].astype(float)
-    ohlc_data.reset_index(inplace=True)
-    ohlc_data['Datetime'] = mdates.date2num(ohlc_data['Datetime'].dt.to_pydatetime())
     fig, axs = plt.subplots()
-    data[['MACD', 'MACD Signal']].plot(ax=axs)
-    axs.set_title(f'{ticker} MACD and Signal Line')
+    axs.plot(data.index, data['MACD'], color='blue', label='MACD Line')
+    axs.plot(data.index, data['MACD Signal'], color='orange', label='Signal Line')
+    histogram = data['MACD'] - data['MACD Signal']
+    colors = ['green' if val >= 0 else 'red' for val in histogram]
+    axs.bar(data.index, histogram, color=colors, alpha=0.5, label='MACD Histogram')
+    axs.set_title(f'{ticker} MACD')
     axs.grid()
+    axs.legend()
     plt.tight_layout()
     plt.show()
 
@@ -273,20 +297,28 @@ def predict_stock_movement(data, ticker):
     )
     score = 50 * weighted_sum
     trend = detect_trend(data)
-    return float(rsi_norm), float(macd_norm), float(bollinger_position_norm), float(sentiment_norm), float(score), trend
+    return (
+        float(rsi_norm.iloc[0] if isinstance(rsi_norm, pd.Series) else rsi_norm),
+        float(macd_norm),
+        float(bollinger_position_norm),
+        float(sentiment_norm),
+        float(score),
+        trend
+    )
 
-def plot_projection(data, ticker):
+def plot_projection(data, ticker, return_fig=False):
     recent_slope = (data['50-day MA'].iloc[-1] - data['50-day MA'].iloc[-50]) / 50
     future_days = np.arange(1, 31)
     future_prices = data['50-day MA'].iloc[-1] + recent_slope * future_days
-    plt.figure(figsize=(10, 6))
+    fig = plt.figure(figsize=(5, 3))
     plt.plot(data.index, data['Close'], label='Actual Prices')
     plt.plot(data.index, data['50-day MA'], label='50-day MA')
     future_dates = pd.date_range(start=data.index[-1] + pd.Timedelta(days=1), periods=30)
-    plt.plot(future_dates, future_prices, label='Projected Prices', linestyle='dashed')
+    plt.plot(future_dates, future_prices, label='Projected', linestyle='dashed')
     plt.legend()
-    plt.title(f'{ticker} Stock Price Projection')
-    plt.xlabel('Date')
-    plt.ylabel('Price')
+    plt.title(f'{ticker} Projection')
     plt.grid(True)
+    plt.tight_layout()
+    if return_fig:
+        return fig
     plt.show()

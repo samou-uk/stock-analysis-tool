@@ -1,97 +1,100 @@
-1. Apple's 4-day slide puts Microsoft back on top as most valuable company - Sentiment: 0.33
-2. Apple Exported $17 Billion in iPhones From India Last Year, Minister Says - Sentiment: 0.00
-3. Apple Stock Is Dropping. Trump Wants iPhones to Be Built in U.S. - Sentiment: 0.20
-4. Apple Stock Falls After Getting Two Negative Reports - Sentiment: -0.30
-5. When Apple’s stock is this cheap, big gains often follow, according to BofA - Sentiment: 0.20
-6. Apple Loses Title of World's Most Valuable Company as China Tariffs Loom - Sentiment: 0.10
-7. American company sacks 700, of these 200 in 'donation scam' related to Telugu organisations; similar to f - Sentiment: 0.00
-8. Comcast Hires Apple, Expedia and DirecTV Alum Jon Gieselman to Lead U.S. Residential Business - Sentiment: 0.00
-9. Microsoft again world’s most valuable company amid market turmoil - Sentiment: 0.50
-10. Apple’s historic selloff marks worst three-day stretch for the stock since 2001 - Sentiment: -0.50
-11. Marjorie Taylor Greene discloses purchases of Apple, Amazon, others (AAPL:NASDAQ) - Sentiment: 0.00
-12. Analyst reboots Apple stock price target after tariff meltdown - Sentiment: 0.00
-13. Apple stock hits 11-mth low on tariff fears, falls behind Microsoft in market cap - Sentiment: -0.20
-14. This Is Apple’s (AAPL) Plan to Avoid Trump’s Tariffs on China - Sentiment: 0.00
-15. How Apple Stock Can Beat Trump's Tariffs - Sentiment: 0.00
-16. Apple Takes the Biggest Hit of the "Magnificent Seven" in Response to Trump Tariffs - Sentiment: 1.00
-17. Apple-Linked Tech Stocks Are Hard-Hit in Asia - Sentiment: 0.00
-18. What to Expect From Apple's Earnings Call on May 1 as Tariffs Loom - Sentiment: 0.00
-19. Apple to invest $175m in expanding North Carolina data center - Sentiment: -0.10
-20. What company is now the world’s most valuable company after Apple loses coveted spot? - Sentiment: 0.10
-21. Apple's US$500 billion investment pledge fails to secure tariff exemptions - Sentiment: -0.05
-22. Live: Magnificent 7 Stocks Apple (Nasdaq: AAPL) and NVIDIA (Nasdaq: NVDA) Slide on Tuesday - Sentiment: 0.57
-23. Apple’s Stocks app has a powerful hidden feature for easier tracking - Sentiment: 0.07
-24. AMZN, AAPL and GOOGL Forecast – Mag 7 Stocks Continue to Fall - Sentiment: 0.00
-25. Epic Games CEO calls Apple and Google ‘gangster-style’ businesses in need of competition - Sentiment: 0.10
-26. US labour watchdog halts Apple cases after Donald Trump picks group’s lawyer for top job - Sentiment: 0.50
-27. Apple will spend more than $500 billion in the U.S. over the next four years - Sentiment: 0.25
-28. Visa Wants to Take Over $20 Billion Apple Card Business - Sentiment: 0.20
-29. Apple is getting screwed by Trump's tariffs - Sentiment: 0.00
-30. Apple leads decline in tech stocks as market reacts to Trump's tariffs - Sentiment: 0.00
-31. Apple CEO Tim Cook makes a cool $24 million in serendipitous stock sale - Sentiment: 0.35
-32. Charted: How Apple Makes its $391B in Revenue - Sentiment: 0.00
-33. Apple Plunges 9%, Leading a Tech Sell-Off - Sentiment: 0.00
-34. Apple has its biggest stock drop in five years because of Trump’s tariffs - Sentiment: 0.00
-35. Apple loses $1bn a year on TV: Why don't its shows have mass appeal? - Sentiment: -0.30
-36. Tariffs or Not, I'm Avoiding These 2 Tumbling Stocks - Sentiment: 0.00
-37. Tech analyst responds to Trump wanting Apple to make iPhones in U.S.: 'I don't think that's a thing' - Sentiment: 0.00
-38. Stocks making the biggest moves midday: Apple, UnitedHealth, Humana, Broadcom, Wells Fargo and more - Sentiment: 0.50
-39. Apple drops 5% as tech, semiconductor stocks fall after market rally fades - Sentiment: 0.00
-40. Magnificent 7 rebound falters as Apple, Tesla end sharply lower amid broad tariff sell-off - Sentiment: 0.31
-41. Apple's 3-day loss in market cap swells to almost $640 billion - Sentiment: 0.00
-42. Apple stock drops after Trump admin says it will increase Chinese tariff to 104% - Sentiment: 0.00
-43. Apple Loses Title of World's Most Valuable Company as China Tariffs Loom - Sentiment: 0.10
-44. These Stocks Moved the Most Today: Apple, Nvidia, Broadcom, Humana, CVS, Tesla, Super Micro, Marvell, and More - Sentiment: 0.44
-45. Hard-hit Apple bounces back with the market, and an analyst is divided on our drug stocks - Sentiment: 0.00
-46. Howard Lutnick Says Army Of Millions Will Build iPhones In The US, But Could Trump's Tariffs Make The Premium Apple Flagship Cost $2,300? - Sentiment: 0.00
-47. Apple’s historic sell-off has bulls balking from tariff risks - Sentiment: 0.00
-48. Wedbush Cuts Apple, Tesla Targets as Tariff Pressure Mounts - Sentiment: 0.00
-49. How Stock Options Traders See Apple’s (AAPL) Death Cross - Sentiment: 0.00
-50. Apple's Post-Earnings Slide May Offer Strong Entry Point, Analyst Notes - Sentiment: 0.43
-51. Apple, Tesla, GM, Nvidia, Super Micro, MicroStrategy, U.S. Steel, Alibaba, and More Movers - Sentiment: 0.42
-52. Apple’s collapse proves cosying up to Trump is no guarantee of safety - Sentiment: 0.30
-53. Apple (AAPL) Leans Into U.S. AI Investment with $500B Pledge Amid Tariff Challenges - Sentiment: 0.00
-54. Tesla & Apple price targets cut, Five Below rises: Market Minute - Sentiment: 0.00
-55. Why BofA Says Apple’s Recent Tariff-Fueled Slump Could Be an Opportunity To Buy - Sentiment: 0.00
-56. Is Apple Inc. (AAPL) the Best Fundamental Stock to Buy According to Billionaires? - Sentiment: 1.00
-57. Apple Plans To Ship More iPhones From India Amid Steep China Tariffs, Report Says - Sentiment: 0.50
-58. iPhone Panic Buying Erupts as Apple Faces $500B Market Drop and Tariff Chaos - Sentiment: 0.00
-59. Tariff storm ravages Magnificent Seven as Apple nears one-year low - Sentiment: 0.50
-60. Apple temporarily slashes TV+ subscription prices (AAPL:NASDAQ) - Sentiment: 0.00
-61. Is Apple Inc. (AAPL) the Best Beginner Stock? - Sentiment: 1.00
-62. Apple’s stock is the latest to see a ‘death cross,’ and it won’t be the last - Sentiment: 0.17
-63. Apple Stock Falls Again. How the Rest of the Mag 7 Are Trading. - Sentiment: 0.00
-64. Futures Dive On Trump Tariff Fallout - Sentiment: 0.00
-65. Europe considers new tariffs that could punish tech companies like Google, Meta, and Apple - Sentiment: 0.14
-66. Apple: A Contrarian Buy Opportunity (Rating Upgrade) (NASDAQ:AAPL) - Sentiment: 0.00
-67. Apple, Nvidia Among Tech Giants Hit Hard in Stock Market Selloff - Sentiment: -0.29
-68. Apple Shares Tumble as White House Threatens Additional Tariff on China - Sentiment: 0.00
-69. Jim Cramer on Apple Inc. (AAPL): “It’s Bad. I’m Not Gonna Tell You It’s Good” – China Risk Looms Large - Sentiment: 0.07
-70. Trump’s Tariffs Hit Apple and Amazon Stocks — But Analysts at Big Banks Stay Firm - Sentiment: -0.10
-71. Apple: The Generational Buying Opportunity Is Here (Rating Upgrade) - Sentiment: 0.00
-72. Apple Shares Trim 3%+ Drop As White House Confirms 104% Tariffs Against China Go Into Effect Tonight At Midnight - Sentiment: 0.00
-73. Why This Five-Star Analyst Expects Solid Returns from Apple Stock (AAPL) - Sentiment: 0.00
-74. Tesla shares tumble after bullish analyst Dan Ives slashes price target 43% - Sentiment: 0.00
-75. Apple’s $500B Power Move (NASDAQ:AAPL) - Sentiment: 0.00
-76. Pullback in Apple shares creates buying opportunity, says BofA - Sentiment: 0.00
-77. AAPL, NVDA – The two biggest companies are the 2 biggest losers in the Dow - Sentiment: -0.20
-78. Apple: 2 Obvious Reasons To Buy, 1 To Sell (NASDAQ:AAPL) - Sentiment: 0.00
-79. Comcast Names Chief Growth Officer For U.S. Residential Businesses - Sentiment: 0.00
-80. Trump's 54% China Tariff: A Game-Changer For Apple (NASDAQ:AAPL) - Sentiment: 0.00
-81. Apple seeing 'panic buying' of iPhones amid tariff worries: report (AAPL:NASDAQ) - Sentiment: 0.00
-82. ‘Once in a Generation Opportunity,’ Says Investor About Apple Stock - Sentiment: 0.00
-83. Apple Sell-Off: A Massive Overreaction To Tariff News (NASDAQ:AAPL) - Sentiment: 0.00
-84. Analysts Keeping the Faith on Apple Stock (AAPL) Despite Tariff Turmoil - Sentiment: 0.00
-85. ‘The Perfect Storm’: Daniel Ives Slashes Price Targets for Tesla and Apple Shares - Sentiment: 1.00
-86. How Stock Options Traders See Apple’s (AAPL) Death Cross - Sentiment: 0.00
-87. Devastating tariffs force Wedbush to slash Apple stock target by $75 to $250 - Sentiment: -1.00
-88. Trump Tariffs Chomp AAPL Stock to Its Core - Sentiment: 0.00
-89. Why Shares of Apple Are Getting Hammered Today - Sentiment: 0.00
-90. How Tim Cook's business empire could beat Donald Trump's tariffs: Apple's worldwide supply chain could soften - Sentiment: 0.00
-91. Apple stock rocked for fourth day, despite brief signs of recovery - Sentiment: 0.00
-92. Watch Apple's Shares Plunged After Tariff Announcement - Sentiment: 0.00
-93. Analyst Forecasts Tariffs Impact On Apple's Profit And Highlights 2 Software Stocks That Are Safeguards - Sentiment: 0.00
-94. Apple shares clawing back, after $638 billion in value is destroyed - Sentiment: 0.00
-95. Apple's Stock Had a Wild Morning - Sentiment: 0.10
-96. ‘Nowhere to hide.’ How Apple and others in Silicon Valley are bracing for Trump tariffs - Sentiment: 0.00
-97. Apple, Tesla, JPMorgan and Eli Lilly fall premarket - Sentiment: 0.00
+1. Apple stock surges on tariff pause despite China exclusion - Sentiment: 0.00
+2. Apple soars 15% as Trump reverses on most tariffs - Sentiment: 0.50
+3. Apple Stock Jumps on Tariff News, Hope for Exemption - Sentiment: 0.00
+4. These Stocks Moved the Most Today: Walmart, Apple, Tesla, Delta, Bristol Myers, Nvidia, Ford, and More - Sentiment: 0.50
+5. US stocks stage historic rally as Trump's 90-day pause takes worst case scenario 'off the table' - Sentiment: -0.50
+6. Tesla, Nvidia Lead Magnificent 7 Stocks Higher as Tech Drives Broad Relief Rally - Sentiment: 0.44
+7. Apples Margins Are Still a Big Risk in Trade War Roller Coaster: Heard on the Street - Sentiment: 0.00
+8. Why Aren't You Buying the Dip in Apple? - Sentiment: 0.00
+9. Apples Next Move? Pushing Back on Trump with iPhone Tariff Surcharges - Sentiment: 0.00
+10. The tech world aggressively backed Trump. It couldn't stop his tariffs. - Sentiment: 0.00
+11. iPhone prices risk doubling if production moves to US - Sentiment: 0.00
+12. These Stocks Are Moving the Most Today: Walmart, Apple, Tesla, Delta, Bristol Myers, Nvidia, Ford, and More - Sentiment: 0.50
+13. Apple Stock Soars Alongside Market Amid Latest Tariff Update. Thats Confusing. - Sentiment: 0.10
+14. Nvidia: Tariffs Have Strengthened My Conviction (Rating Upgrade To Strong Buy) - Sentiment: 0.43
+15. How much would it cost Apple to make iPhones in America? Bank of America tried to find out - Sentiment: 0.20
+16. Magnificent Seven Stocks Surge: Apple, Nvidia, Tesla Soar - Sentiment: 1.00
+17. Why Shares of Apple Are Skyrocketing After One of Its Worst 4-Day Stretches in 25 Years - Sentiment: -1.00
+18. Apple (AAPL) Stock Trades Up, Here Is Why - Sentiment: 0.00
+19. Apple Shares Climb 4% After Worst Losing Streak, Regains Crown From Microsoft - Sentiment: -1.00
+20. Apples iPhone cost could rise 90% if its made in US, BofA says - Sentiment: 0.00
+21. Nikes 30-Year Gamble on Vietnam is Rattled by Trump Tariffs - Sentiment: 0.00
+22. Apple, oil futures, bank stocks: Market Minute - Sentiment: 0.00
+23. Stock Market Today: Dow Jones Rises Despite China Trade War News; Nvidia, Tesla Rise Amid Trump Warning (Live Coverage) - Sentiment: 0.14
+24. Mar Vista Global Quality Strategy Q1 2025 Commentary - Sentiment: 0.00
+25. Apple (AAPL) Faces Uncertainty, but Analysts Still See It as a Top Market Pick - Sentiment: 0.50
+26. Apple Stock Leads Tech Rebound After Worst 4-Day Stretch Since 2000 - Sentiment: -1.00
+27. JGRW: A New Growth ETF With Relative Low Volatility - Sentiment: 0.05
+28. Magnificent Seven Stocks: Apple, Nvidia, Tesla Rally - Sentiment: 1.00
+29. Watch These Apple Stock Price Levels Amid Tariff-Fueled Volatility - Sentiment: 0.00
+30. Stocks to Watch Wednesday: Apple, Alibaba, Novo Nordisk, Delta - Sentiment: 0.00
+31. Top Stock Movers Now: Delta, Apple, Eli Lilly, and More - Sentiment: 0.50
+32. Trump Tariffs Spark 'Demand Destruction' Concern For Electronics - Sentiment: 0.00
+33. Apple's (AAPL) Outlook Is Positive, Goldman Executive Says - Sentiment: 0.23
+34. Apple Is Falling Far From The Tree: Downgrading To Sell Until Further Notice - Sentiment: 0.05
+35. Apple Stock Is The First Place To Look For A Bounce - Sentiment: 0.25
+36. Mar Vista U.S. Quality Premier Strategy Q1 2025 Commentary - Sentiment: 0.00
+37. Apple, Alibaba, drugmaker stocks: Trending Tickers - Sentiment: 0.00
+38. LIVE: USTR Jamieson Greer testifies before House committee on Trump's trade policy 4/9/2025 - Sentiment: 0.14
+39. Trump Trade: U.S. President threatens additional tariffs on China of 50% - Sentiment: 0.00
+40. Does SNAP's Launch of an AI Ad Format Signal a Buy for the Stock? - Sentiment: 0.00
+41. PC Market Starts 2025 With Solid Growth, Tariff Turbulence Looms - Sentiment: 0.00
+42. Mar Vista U.S. Quality Q1 2025 Commentary - Sentiment: 0.00
+43. The Simple, Brutal Math Behind Apple's Selloff: Heard on the Street - Sentiment: -0.42
+44. Apple, Starbucks upgraded: Wall Street's top analyst calls - Sentiment: 0.50
+45. iPhone Prices Could Soar as Tariff Standoff Threatens Apple's China-Heavy Supply Chain - Sentiment: 0.00
+46. Apple (AAPL) Upgraded by Investment Bank to Hold - Sentiment: 0.00
+47. Jim Cramer Warns: Apple (AAPL) Must Bring Production Home or Risk Missing Its Numbers - Sentiment: -0.20
+48. Stock Market News for Apr 9, 2025 - Sentiment: 0.00
+49. Trump tariffs should be reworked but not withdrawn: Veteran economist - Sentiment: 0.00
+50. Short sellers mint $159 billion profit in 6 days as stocks sink - Sentiment: 0.00
+51. Apple Slashes TV+ Subscription Price in Limited Promotion as Shares Fall on Tariff News - Sentiment: -0.07
+52. Apple: You Wanted It Cheaper, Now You Got It - Sentiment: 0.00
+53. Apple Risk-Reward Skews Positive After Valuation Drop, Bank of America Says - Sentiment: 0.23
+54. Apple Stock Catches an Upgrade. It Isnt a Buy Now. - Sentiment: 0.00
+55. Delta, Walmart, Apple: Stocks to watch today - Sentiment: 0.00
+56. Microsoft Reclaims Top Spot, Surpassing Apple After iPhone Maker's 23% Drop - Sentiment: 0.50
+57. Apple Shares Fall as Trump Pushes U.S.-Made iPhones, Tariff Pressures Mount - Sentiment: 0.00
+58. Trump's economy still hasn't shaken the faith of teens - Sentiment: 0.00
+59. Trump economy still has one key believer: Teens - Sentiment: 0.00
+60. Berkshire Hathaway: Buffett Was Right, Again - Sentiment: 0.29
+61. Client Update February 2025: A New Year - Sentiment: 0.14
+62. 5 Things to Know Before the Stock Market Opens - Sentiment: 0.00
+63. PC Shipments Grew Fastest in Four Years to Avoid Tariffs - Sentiment: 0.00
+64. Strategy's $5 Million Bitcoin Target: Beacon or Bagholder? - Sentiment: 0.00
+65. Apple Supplier Luxshare to Maintain Vietnam Production Hub to Support U.S. Market - Sentiment: 0.00
+66. Wall Street Breakfast Podcast: Easter Spending To Hop To $23.6B Despite Uncertainty - Sentiment: 0.00
+67. The Zacks Analyst Blog Highlights Apple, NVIDIA and Broadcom - Sentiment: 0.00
+68. Should You Invest in the Invesco NASDAQ Internet ETF (PNQI)? - Sentiment: 0.00
+69. Should Motley Fool 100 Index ETF (TMFC) Be on Your Investing Radar? - Sentiment: 0.60
+70. A diminished Magnificent 7 tests Big Techs role in the market: Morning Brief - Sentiment: 0.33
+71. ClearBridge Appreciation Strategy Q1 2025 Commentary - Sentiment: 0.00
+72. ClearBridge Global Growth Strategy Q1 2025 Commentary - Sentiment: 0.00
+73. An American-Made iPhone: Just Expensive or Completely Impossible? - Sentiment: -0.58
+74. Apple: Beware The Lollapalooza Effect - Sentiment: 0.00
+75. iPhone could triple in price to $3,500 if theyre made in the US - Sentiment: 0.00
+76. Analyst Report: Apple Inc. - Sentiment: 0.00
+77. Markets Reverse Direction as Tariff Ante Upped on China - Sentiment: 0.00
+78. Building A $100,000 Dividend Portfolio: Enhancing SCHD With April's Top High-Yield Picks - Sentiment: 0.50
+79. Manufacturing Already Moved Out of China. Now Where Will It Go? - Sentiment: 0.00
+80. Apple Loses Title of World's Most Valuable Company as China Tariffs Loom - Sentiment: 0.10
+81. Apple isn't able to quickly shift production to the U.S., says MoffettNathanson's Craig Moffett - Sentiment: 0.42
+82. Video: What Tariffs Will Do to Your iPhone - Sentiment: 0.00
+83. Apple Cedes Most-Valuable Crown After Tariff Pain Hits Stock Price - Sentiment: 0.00
+84. Apple: A Contrarian Buy Opportunity (Rating Upgrade) - Sentiment: 0.00
+85. Apple Stock Falls After Getting Two Negative Reports - Sentiment: -0.30
+86. These Stocks Moved the Most Today: Apple, Nvidia, Broadcom, Humana, CVS, Tesla, Super Micro, Marvell, and More - Sentiment: 0.44
+87. Goldman Sachs' Sung Cho: Tech stocks can still drive resilient business models in tariff environment - Sentiment: 0.00
+88. Apple falls more than 20% in 4 days as China tariffs loom - Sentiment: 0.50
+89. Wedbush Cuts Apple, Tesla Targets as Tariff Pressure Mounts - Sentiment: 0.00
+90. US Stocks Tumble Again With Tariffs Set to Roil Global Economy - Sentiment: 0.00
+91. Why We Dont Have a Made-in-America iPhone - Sentiment: 0.00
+92. Stressful Markets, But Lots Of Opportunities In Tech - Sentiment: 0.00
+93. Apple Exported More Than $17 Billion of iPhones From India Last Year - Sentiment: 0.25
+94. Apple's Post-Earnings Slide May Offer Strong Entry Point, Analyst Notes - Sentiment: 0.43
+95. Pullback in Apple shares creates buying opportunity, says BofA - Sentiment: 0.00
+96. iPhone Buyers Rush Apple Stores Amid Tariff Fears and Supply Chain Shifts - Sentiment: 0.00
+97. Tesla, Amazon, and Apple forfeit gains after fleeting Magnificent 7 stock rally - Sentiment: 1.00
+98. Broadcom Unveils $10 Billion Stock Buyback: Buy AVGO Stock Now? - Sentiment: 0.00
+99. These Stocks Are Moving the Most Today: Apple, Nvidia, Broadcom, Humana, CVS, Tesla, Super Micro, Marvell, and More - Sentiment: 0.44
+100. Why BofA Says Apple's Recent Tariff-Fueled Slump Could Be an Opportunity To Buy - Sentiment: 0.00
