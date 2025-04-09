@@ -10,7 +10,7 @@ A user-friendly stock analysis toolkit built in Python. This app provides a clea
   - Moving Average Convergence Divergence (MACD) + Signal Line
 - Perform sentiment analysis on news headlines related to the stock using `TextBlob`.
 - Includes linear and polynomial regression-based price projections with customizable degree selection using `Sklearn`
-- Display stock data, technical indicators, sentiment analysis results, and price predictions through a user-friendly GUI powered by `tkinter`.
+- Display stock data, technical indicators, sentiment analysis results, and price predictions through a user-friendly GUI using `tkinter`.
 - Evaluate the buying, holding, or selling recommendation based on the analysis and predictions.
 
 ## Dependencies 
